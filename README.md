@@ -20,7 +20,7 @@ Tailwind CSS
 Font Awesome (CDN) <br>
 .............................................
 <br>📌 Contributions
-This project was developed as part of a learning initiative by Prajjal Dhar with Regex Software Services Summer Internship Batch 2025, with the help of a talented group of interns.<br>
+This project was developed as part of a learning initiative  with the guidance of prajjal sir.<br>
 .............................................
 <br>🙏 Acknowledgements
 Inspired by Visual Studio Code
