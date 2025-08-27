@@ -1,2 +1,27 @@
 # VS_CODE-CLONE_AB
-A lightweight VS Code clone built with modern web tech. Features include syntax highlighting, file navigation, and a responsive UI. Perfect for learning how editors work, customizing your own, or showcasing frontend skills. Open-source, modular, and ready for your creative tweaks and contributions.
+💻 VS Code Clone UI
+A pixel-perfect, responsive clone of the Visual Studio Code (VS Code) interface built using HTML and Tailwind CSS. This project replicates the layout and structure of the popular VS Code editor purely using frontend technologies and tailwind-css as a css framework used.
+............................................
+📸 Preview
+VS Code Clone Preview
+<img width="1910" height="896" alt="Screenshot 2025-08-27 125827" src="https://github.com/user-attachments/assets/c0ab26b4-a326-4f25-8382-15039d26e376" />
+
+.............................................
+🚀 Features
+VS Code-inspired layout
+Responsive and clean design
+Sidebar with icons
+Editor tab layout
+Minimal and elegant UI using Tailwind CSS
+.............................................
+🛠️ Tech Stack
+HTML5
+Tailwind CSS
+Font Awesome (CDN)
+.............................................
+📌 Contributions
+This project was developed as part of a learning initiative by Prajjal Dhar with Regex Software Services Summer Internship Batch 2025, with the help of a talented group of interns.
+.............................................
+🙏 Acknowledgements
+Inspired by Visual Studio Code
+Thanks to the open-source communities of Tailwind CSS and Font Awesome
